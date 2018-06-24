@@ -1,0 +1,14 @@
+geladeira-dako 0.751 999.00
+iphone-6 0.0000899 2199.12
+tv-55 0.400 4346.99
+tv-50 0.290 3999.00
+tv-42 0.200 2999.00
+notebook-dell 0.00350 2499.90
+notebook-lenovo 0.00498 1999.00
+notebook-asus 0.00527 3999.00
+ventilador-panasonic 0.496 199.00
+microondas-electrolux 0.0424 308.66
+microondas-lg 0.0544 429.90
+microondas-panasonic 0.0319 299.29
+geladeira-brastemp 0.635 849.00
+geladeira-consul 0.870 1199.89
